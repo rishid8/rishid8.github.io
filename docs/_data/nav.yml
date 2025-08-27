@@ -1,6 +1,11 @@
+- name: About & Contact
+  link: /
+- name: Publications
+  link: /pubs
+- name: CV
+  link: /cv
 - name: Posts
   link: /posts
 - name: Categories
   link: /categories/
-- name: About & Contact
-  link: /
+

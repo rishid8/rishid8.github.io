@@ -16,7 +16,7 @@ position at the Assam Science & Technology University in India around that time.
 Earlier, I graduated with a PhD from the Department of Physics at Fudan University, Shanghai.
 My Ph.D. thesis is titled "Singularity resolution in theories beyond General Relativity
 and some astrophysical implications" and it is supervised
-by [Prof. Cosimo Bambi](http://www.physics.fudan.edu.cn/tps/people/bambi/Site/Home.html).
+by [Prof. Cosimo Bambi](https://cosimobambi.github.io/).
 <br/>
 
 
