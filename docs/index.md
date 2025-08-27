@@ -4,12 +4,15 @@ title: hey there
 ---
 
 ## About
+
 I am postdoctoral fellow in theoretical physics at Nazarbayev University,
 Astana with an interest in contributing to a deeper understanding of gravity,
 its classical and quantum aspects. Earlier I worked at University of
 Chinese Academy of Sciences (UCAS), Beijing as a (vising) postdoc fellow
 during COVID-19 travel restriction. I also had a concurrent adjunct teaching
 position at the Assam Science & Technology University in India around that time.
+
+\\
 
 Earlier, I graduated with a PhD from the Department of Physics at Fudan University, Shanghai.
 My Ph.D. thesis is titled "Singularity resolution in theories beyond General Relativity
@@ -19,6 +22,9 @@ by [Prof. Cosimo Bambi](http://www.physics.fudan.edu.cn/tps/people/bambi/Site/Ho
 
 My Research
 ======
+
+\\
+
 
 Einstein's theory of gravity was proposed more than 100 years
 ago and is still the current framework for the description of
@@ -33,8 +39,14 @@ Einstein's gravity has the singularity problem and the behavior of this theory i
 still not well-tested at the strong regime. My research focuses on these two aspects
 of gravitational physics and the interplay between them.
 
+\\
+
+
 Other Interests
 ========
+
+\\
+
 
 When I am not procastinating with some physics problem,
 I like to go for a run, hike in the mountains, read books or
