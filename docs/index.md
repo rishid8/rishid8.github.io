@@ -8,7 +8,7 @@ title: About Me | hrishikesh
 I am postdoctoral fellow in theoretical physics at Nazarbayev University,
 Astana with an interest in contributing to a deeper understanding of gravity,
 its classical and quantum aspects. Earlier I worked at University of
-Chinese Academy of Sciences (UCAS), Beijing as a (vising) postdoc fellow
+Chinese Academy of Sciences (UCAS), Beijing as a (visiting) postdoc fellow
 during COVID-19 travel restriction. I also had a concurrent adjunct teaching
 position at the Assam Science & Technology University in India around that time.
 
