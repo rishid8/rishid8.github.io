@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LightSpeed Contact
+title: hey there
 ---
 
 ## About
