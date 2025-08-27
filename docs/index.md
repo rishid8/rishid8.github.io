@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Me | hrishikesh
+title: About Me
 ---
 
 ## About
