@@ -9,6 +9,9 @@ timezone_short: ET
 # Keywords
 keywords: ['seo', 'key', 'words']
 
+#markdown
+markdown: kramdown
+
 # Analytics (Plausible requires sign-up)
 analytics:
   plausible:
