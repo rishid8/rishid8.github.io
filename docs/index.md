@@ -48,4 +48,4 @@ watch cricket matches. You can follow me on [Strava](https://www.strava.com/athl
 
 
 ## Contact
-Email me, [hrishikeshchakrabarty@gmail.com](mailto:hrishikeshchakrabarty@gmail.com).
+Email me: hrishikeshchakrabarty[at]gmail.com
