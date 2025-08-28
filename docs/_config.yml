@@ -2,9 +2,9 @@
 name: hrishikesh
 description: A simple Jekyll theme
 url: https://example.com
-author: tajacks
-timezone: America/Toronto
-timezone_short: ET
+author: hrishikesh
+timezone: UTC
+#timezone_short: ET
 
 # Keywords
 keywords: ['seo', 'key', 'words']
