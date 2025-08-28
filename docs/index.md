@@ -43,8 +43,6 @@ of gravitational physics and the interplay between them.
 When I am not procastinating with some physics problem,
 I like to go for a run, hike in the mountains, read books or
 watch cricket matches. You can follow me on [Strava](https://www.strava.com/athletes/62170179).
- I have started a small library of books for personal use.
-  Here you can browse my [libib catalog](https://hrishikesh.libib.com/).
 
 
 ## Contact
