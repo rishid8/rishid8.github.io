@@ -4,8 +4,8 @@
   link: /pubs
 - name: CV
   link: /cv
+#- name: Posts
+#  link: /posts
 - name: Posts
-  link: /posts
-- name: Categories
   link: /categories/
 
