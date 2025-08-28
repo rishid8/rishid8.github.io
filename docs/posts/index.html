@@ -1,23 +1,39 @@
 ---
 layout: default
-title: Posts
+title: Blog
 pagination:
-    enabled: false
+  enabled: true
+  per_page: 5
 ---
 
-<h2>Posts</h2>
-{% for post in paginator.posts %}
-<span class="post-item"><span class="mobile-hide"> {{ post.date | date: '%Y-%m-%d' }} >> </span><a href="{{ post.url }}">{{ post.title }}</a><span class="float-right mobile-hide">{{ post.categories }}</span></span>
-{% endfor %}
-
-<div class="post-nav">
-{% if paginator.total_pages > 1 %}
-{% if paginator.next_page %}
-<a href="{{ paginator.next_page_path | prepend: site.baseurl }}">&lt;- Older</a>
-{% endif %}
-{% if paginator.previous_page %}
-<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer -&gt;</a>
-{% endif %}
-{% endif %}
+<div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+      <a href="{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
 </div>
 
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Previous
+    </a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+{% endif %}

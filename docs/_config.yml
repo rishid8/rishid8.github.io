@@ -26,7 +26,7 @@ sass:
 
 # Paginate
 pagination:
-  enabled: false
+  enabled: true
   # Value set low for demonstration purposes
   per_page: 3
   sort_field: 'date'
@@ -34,7 +34,7 @@ pagination:
 
 # Category Paginating
 autopages:
-  enabled: false
+  enabled: true
   categories:
     title: 'Posts in category :cat'
     permalink: '/category/:cat'
