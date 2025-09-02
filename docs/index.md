@@ -22,22 +22,19 @@ by [Prof. Cosimo Bambi](https://cosimobambi.github.io/).
 
 ## My Research
 
-Einstein's theory of gravity was proposed more than 100 years
-ago and is still the current framework for the description of
-the gravitational field and of the chrono-geometrical structure of
-spacetime around massive objects. The theory has passed a large number
-of observational tests in the weak-field regime. Very recently, we have
-seen gravitational wave detection from binary black hole merger
-by [LIGO/VIRGO](https://www.ligo.org/) collaboration and
-the first image of a black hole by [EHT](https://eventhorizontelescope.org/)
-collaboration. However, there are still plenty of burning issues that need to be addressed.
-Einstein's gravity has the singularity problem and the behavior of this theory is
-still not well-tested at the strong regime. My research focuses on these two aspects
-of gravitational physics and the interplay between them.
+My broad area of interest is the classical and quantum aspects of gravity.
+My research has ranged from the physics of black holes and compact objects in General Relativity and
+modified gravity to cosmology. Specifically, I am interested in the shortcomings of GR and
+how modifications to the theory aimed at overcoming the issues affect observations
+in both astrophysical and cosmological regimes.
 
+<br/>
+At present, I am working on cosmological models with a running Newton's constant (and variable dark energy)
+which can induce a period of accelerated expansion in the early or late universe or a bounce
+(see e.g. 2405.02636 in the context of asymptotic safety
+and 2411.05965 for a simple parametrization to alleviate the $\sigma_8$ tension).
 
-
-
+<br/>
 ## Other Interests
 
 When I am not procastinating with some physics problem,
