@@ -20,6 +20,7 @@ by [Prof. Cosimo Bambi](https://cosimobambi.github.io/).
 <br/>
 
 
+
 ## My Research
 
 My broad area of interest is the classical and quantum aspects of gravity.
@@ -32,7 +33,7 @@ in both astrophysical and cosmological regimes.
 At present, I am working on cosmological models with a running Newton's constant (and variable dark energy)
 which can induce a period of accelerated expansion in the early or late universe or a bounce
 (see e.g. 2405.02636 in the context of asymptotic safety
-and 2411.05965 for a simple parametrization to alleviate the $\sigma_8$ tension).
+and 2411.05965 for a simple parametrization to alleviate the Sigma8 tension).
 
 <br/>
 ## Other Interests

@@ -10,7 +10,11 @@ timezone: UTC
 keywords: ['seo', 'key', 'words']
 
 #markdown
-markdown: kramdown
+#markdown: kramdown
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
 
 # Analytics (Plausible requires sign-up)
 analytics:
